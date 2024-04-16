@@ -1,1 +1,1 @@
-![20240416153302](https://github.com/GuillaumeSere/App-info-pays/assets/75996200/7bafa44a-5306-4f91-8731-a08c7b05c85d)
+![20240416155356](https://github.com/GuillaumeSere/App-info-pays/assets/75996200/9b522d29-dc2d-4237-bbe3-06ff02ea90de)
