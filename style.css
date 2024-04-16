@@ -9,6 +9,16 @@
 body{
     background-color: #3d64e6;
 }
+header{
+    display: flex;
+    justify-content: center;
+    color:#a5a6a7;
+    background-color: #081d3e;
+    box-shadow: 1px 4px 21px -4px #000 ;
+}
+header span{
+   margin-left: 1rem;
+}
 .container{
     background-color: #ffffff;
     width: 80vw;
@@ -19,7 +29,7 @@ body{
     top: 50%;
     left: 50%;
     border-radius: 0.62em;
-    box-shadow: 0 1.25em 1.8em rgba(8,21,65,0.25);
+    box-shadow: 1px 4px 21px -4px #000 ;
 }
 .search-wrapper{
     display: grid;
